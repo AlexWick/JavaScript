@@ -1,2 +1,3 @@
-# JaveScript
-.js directory with small JavaScript programs
+# apixu-nodejs
+
+NodeJS library for Apixu Weather API
